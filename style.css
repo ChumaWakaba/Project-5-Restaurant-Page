@@ -11,12 +11,12 @@
 body {
   padding: 40px;
   font-family: "Pathway Extreme", sans-serif;
-  background-image: 
+  background-image:
     linear-gradient(
-        to right,
-        rgb(119, 87, 39),
-        rgb(224, 153, 19)
-  );
+      to right,
+      rgb(119, 87, 39),
+      rgb(224, 153, 19)
+   );
 }
 
 @media (min-width: 1200px) {
