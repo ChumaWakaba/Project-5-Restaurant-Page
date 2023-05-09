@@ -11,7 +11,7 @@ This project is a Restaurant's landing page. It diplays the specials as well as 
 
 ## Live view
 
-[Live view]() 
+[Live view](https://singular-melba-9de997.netlify.app/) 
 
 ## Prerequisite
 
