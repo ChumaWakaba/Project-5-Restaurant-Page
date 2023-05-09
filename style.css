@@ -10,7 +10,11 @@
 
 body {
   padding: 40px;
-  background-image: linear-gradient(to right,rgb(119, 87, 39),rgb(224, 153, 19));
+  background-image: linear-gradient(
+    to right,
+    rgb(119, 87, 39),
+    rgb(224, 153, 19)
+  );
   font-family: "Pathway Extreme", sans-serif;
 }
 
