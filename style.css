@@ -10,13 +10,13 @@
 
 body {
   padding: 40px;
+  font-family: "Pathway Extreme", sans-serif;
   background-image: 
     linear-gradient(
         to right,
         rgb(119, 87, 39),
         rgb(224, 153, 19)
-    );
-  font-family: "Pathway Extreme", sans-serif;
+  );
 }
 
 @media (min-width: 1200px) {
