@@ -10,11 +10,7 @@
 
 body {
   padding: 40px;
-  background-image: linear-gradient(
-    to right,
-    rgb(119, 87, 39),
-    rgb(224, 153, 19)
-  );
+  background-image: linear-gradient(to right,rgb(119, 87, 39),rgb(224, 153, 19));
   font-family: "Pathway Extreme", sans-serif;
 }
 
@@ -164,6 +160,10 @@ a {
   font-family: "Handlee", cursive;
 }
 
+span i {
+  font-size: 10px;
+}
+
 .iconHead i {
   font-size: 40px;
   color: rgb(100, 71, 18);
@@ -221,10 +221,6 @@ a {
 
 .title h1 {
   font-size: 30px;
-}
-
-span i {
-  font-size: 10px;
 }
 
 @media (min-width: 1200px) {
